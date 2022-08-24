@@ -1,0 +1,73 @@
+@import url('http://fonts.cdnfonts.com/css/gt-walsheim');
+
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'GT Walsheim', sans-serif;
+    background-color: white;
+}
+
+/* Title Section */
+
+#Blog {
+    margin-top: 100px;
+}
+
+#blog-title-box {
+    display: block;
+}
+
+#blog-title-box h1 {
+    font-size: 2.5em;
+    line-height: 1.22;
+    font-weight: 700;
+    letter-spacing: -1.5px;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
+
+#blog-title-box p {
+    font-size: 1.5em;
+    line-height: 1.22;
+    letter-spacing: -1.5px;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
+
+/* Featured Blogs */
+
+#featured-blogs {
+    max-width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    display: flex;
+    flex-direction: row;
+}
+
+#main-feature-col {
+    width: 60%;
+}
+
+#main-feature-col img {
+    width: 670px;
+    border-radius: 20px;
+}
+
+#main-feature-title-margin  {}
+
+#main-feature-col a {
+    color: #d3a117;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 1.5em;
+    margin-right: 15px;
+    margin-bottom: 5px;
+}
+
+#list-of-features-col {
+    width: 40%;
+}
