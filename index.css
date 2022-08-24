@@ -52,20 +52,37 @@ body, html {
     width: 60%;
 }
 
-#main-feature-col img {
-    width: 670px;
-    border-radius: 20px;
+#main-feature-col  a {
+    text-decoration: underline;
 }
 
-#main-feature-title-margin  {}
+#main-feature-col img {
+    width: 100%;
+    border-radius: 20px;
+    margin-bottom: 18px;
+}
 
-#main-feature-col a {
+#main-feature-title-margin {
+    margin-right: 15px;
+    margin-bottom: 5px;
+}
+
+#main-feature-title-margin p {
+    margin: 0;
     color: #d3a117;
     font-weight: 700;
     text-decoration: none;
     font-size: 1.5em;
-    margin-right: 15px;
-    margin-bottom: 5px;
+}
+
+#featured-blog-title {
+    margin: 0;
+    font-size: 2.5em;
+    line-height: 1.22;
+    font-weight: 700;
+    letter-spacing: -1.5px;
+    color: black;
+    text-decoration: none !important;
 }
 
 #list-of-features-col {
