@@ -9,15 +9,15 @@ body, html {
 
 /* Title Section */
 
-#Blog {
+.page-id-7129 #Blog {
     margin-top: 100px;
 }
 
-#blog-title-box {
+.page-id-7129 #blog-title-box {
     display: block;
 }
 
-#blog-title-box h1 {
+.page-id-7129 #blog-title-box h1 {
     font-size: 2.5em;
     line-height: 1.22;
     font-weight: 700;
@@ -27,7 +27,7 @@ body, html {
     width: fit-content;
 }
 
-#blog-title-box p {
+.page-id-7129 #blog-title-box p {
     font-size: 1.5em;
     line-height: 1.22;
     letter-spacing: -1.5px;
@@ -38,7 +38,7 @@ body, html {
 
 /* Featured Blogs */
 
-#featured-blogs {
+.page-id-7129 #featured-blogs {
     max-width: 1000px;
     display: block;
     margin-left: auto;
@@ -48,26 +48,26 @@ body, html {
     flex-direction: row;
 }
 
-#main-feature-col {
+.page-id-7129 #main-feature-col {
     width: 60%;
 }
 
-#main-feature-col a {
+.page-id-7129 #main-feature-col a {
     text-decoration: underline;
 }
 
-#main-feature-col img {
+.page-id-7129 #main-feature-col img {
     width: 100%;
     border-radius: 20px;
     margin-bottom: 18px;
 }
 
-#main-feature-title-margin {
+.page-id-7129 #main-feature-title-margin {
     margin-right: 15px;
     margin-bottom: 5px;
 }
 
-#main-feature-title-margin p {
+.page-id-7129 #main-feature-title-margin p {
     margin: 0;
     color: #d3a117;
     font-weight: 700;
@@ -75,7 +75,7 @@ body, html {
     font-size: 1.5em;
 }
 
-#featured-blog-title {
+.page-id-7129 #featured-blog-title {
     margin: 0;
     font-size: 2.5em;
     line-height: 1.22;
@@ -85,7 +85,7 @@ body, html {
     text-decoration: none !important;
 }
 
-#list-of-features-col {
+.page-id-7129 #list-of-features-col {
     width: 40%;
     padding-left: 15px !important;
     padding-right: 15px !important;
@@ -94,27 +94,27 @@ body, html {
     flex-direction: column;
 }
 
-.list-box {
+.page-id-7129 .list-box {
     width: 100%;
     margin-bottom: 30px;
     display: flex;
     flex-direction: row;
 }
 
-.featured-list-img {
+.page-id-7129 .featured-list-img {
     width: 170px;
     height: 120px;
     margin-right: 30px;
     border-radius: 12px;
 }
 
-.list-info-box {
+.page-id-7129 .list-info-box {
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
 }
 
-.list-info-box p {
+.page-id-7129 .list-info-box p {
     margin: 0;
     color: #d3a117;
     font-weight: 700;
@@ -122,7 +122,7 @@ body, html {
     font-size: 1.3em;
 }
 
-.list-info-box h3 {
+.page-id-7129 .list-info-box h3 {
     color: black;
     font-size: 1.7em;
     line-height: 1.3;
@@ -130,7 +130,7 @@ body, html {
     margin: 0;
 }
 
-#read-more-section {
+.page-id-7129 #read-more-section {
     max-width: 1000px;
     display: block;
     margin-left: auto;
@@ -139,11 +139,11 @@ body, html {
     margin-bottom: 80px;
 }
 
-#read-more-title-box {
+.page-id-7129 #read-more-title-box {
     margin-bottom: 40px;
 }
 
-#read-more-title {
+.page-id-7129 #read-more-title {
     font-size: 52px;
     line-height: 1.15;
     font-weight: 700;
@@ -151,28 +151,28 @@ body, html {
     margin: 0;
 }
 
-#rows-of-blogs {
+.page-id-7129 #rows-of-blogs {
     width: 100%;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
 }
 
-.blog-box {
+.page-id-7129 .blog-box {
     width: 30%;
     padding-left: 15px !important;
     padding-right: 15px !important;
     margin-bottom: 10px;
 }
 
-.article-item_image {
+.page-id-7129 .article-item_image {
     width: 100%;
     height: 200px;
     border-radius: 20px;
     margin-bottom: 20px;
 }
 
-.read-more-blog-info p {
+.page-id-7129 .read-more-blog-info p {
     margin: 0;
     color: #d3a117;
     font-weight: 700;
@@ -181,7 +181,7 @@ body, html {
     margin-bottom: 10px;
 }
 
-.read-more-blog-info h2 {
+.page-id-7129 .read-more-blog-info h2 {
     color: black;
     font-size: 1.7em;
     line-height: 1.3;
@@ -189,11 +189,11 @@ body, html {
     margin: 0;
 }
 
-#social-platform {
+.page-id-7129 #social-platform {
     padding-bottom: 120px;
 }
 
-#social-platform-container {
+.page-id-7129 #social-platform-container {
     max-width: 1200px;
     padding-top: 20px;
     margin-left: auto;
@@ -201,8 +201,7 @@ body, html {
     text-align: center;
 }
 
-
-.podcast-platform_icon {
+.page-id-7129 .podcast-platform_icon {
     height: 64px;
     width: 64px;
     display: block;
@@ -211,19 +210,19 @@ body, html {
     margin-left: auto;
 }
 
-#row-of-socals {
+.page-id-7129 #row-of-socals {
     display: flex;
     flex-direction: row;
     justify-content: center;
 }
 
-#row-of-socals a {
+.page-id-7129 #row-of-socals a {
     margin-left: 10px;
     margin-right: 10px;
 }
 
 
-#social-tag-line {
+.page-id-7129 #social-tag-line {
     color: black;
     font-size: 4em;
     line-height: 1.3;
@@ -231,7 +230,7 @@ body, html {
     margin: 0;
 }
 
-.social-youtube-embed {
+.page-id-7129 .social-youtube-embed {
     margin-top: 80px;
     border: 0;
     border-radius: 30px;
@@ -239,7 +238,7 @@ body, html {
 }
 
 
-#row-of-vidoes {
+.page-id-7129 #row-of-vidoes {
     width: 100%;
     display: flex;
     flex-direction: row;
@@ -247,14 +246,14 @@ body, html {
     margin-bottom: 30px;
 }
 
-.video-box img {
+.page-id-7129 .video-box img {
     width: 100%;
     height: 200px;
     border-radius: 20px;
     margin-bottom: 20px;
 }
 
-.video-box {
+.page-id-7129 .video-box {
     width: 30%;
     padding-left: 15px !important;
     padding-right: 15px !important;
@@ -265,7 +264,7 @@ body, html {
 
 
 /* CSS */
-.button-86 {
+.page-id-7129 .button-86 {
     all: unset;
     width: fit-content;
     height: fit-content;
@@ -288,8 +287,8 @@ body, html {
     margin-right: auto;
 }
 
-.button-86::after,
-.button-86::before {
+.page-id-7129 .button-86::after,
+.page-id-7129 .button-86::before {
     content: '';
     position: absolute;
     bottom: 0;
@@ -298,7 +297,7 @@ body, html {
     transition: all .4s;
 }
 
-.button-86::before {
+.page-id-7129 .button-86::before {
     transform: translate(0%, 0%);
     width: 100%;
     height: 100%;
@@ -306,7 +305,7 @@ body, html {
     border-radius: 10px;
 }
 
-.button-86::after {
+.page-id-7129 .button-86::after {
     transform: translate(10px, 10px);
     width: 35px;
     height: 35px;
@@ -316,20 +315,20 @@ body, html {
     border-radius: 50px;
 }
 
-.button-86:hover::before {
+.page-id-7129 .button-86:hover::before {
     transform: translate(5%, 20%);
     width: 110%;
     height: 110%;
 }
 
-.button-86:hover::after {
+.page-id-7129 .button-86:hover::after {
     border-radius: 10px;
     transform: translate(0, 0);
     width: 100%;
     height: 100%;
 }
 
-.button-86:active::after {
+.page-id-7129 .button-86:active::after {
     transition: 0s;
     transform: translate(0, 5%);
 }
